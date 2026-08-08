@@ -11,5 +11,7 @@ and samma på svenska
 My focus is to be able to just 
 1) weigh my sourdough,
 2) pick what im gonna make from it
+3) 
  -> the program spits out how much water, flour and salt I need to add
+   
 (the recepies Im following are all from Bellatable https://www.bellatable.fi/reseptit/hapanjuurileipa101?rq=hapanjuurileip%C3%A4)
